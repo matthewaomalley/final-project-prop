@@ -2,3 +2,9 @@ body {
     background-color: rgb(109, 165, 211);
     text-align: center;
 }
+
+li {
+    text-align: center;
+    list-style-type: square;
+    list-style-position: inside;
+}
